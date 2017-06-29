@@ -4,3 +4,6 @@
 [submodule "awesome-kotlin"]
 	path = awesome-kotlin
 	url = https://github.com/KotlinBy/awesome-kotlin.git
+[submodule "ResumeSample"]
+	path = ResumeSample
+	url = https://github.com/geekcompany/ResumeSample.git
