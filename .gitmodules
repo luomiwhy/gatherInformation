@@ -13,3 +13,6 @@
 [submodule "awesome-linux-software-cn"]
 	path = awesome-linux-software-cn
 	url = https://github.com/ChrisLeeGit/awesome-linux-software-cn.git
+[submodule "Best-App"]
+	path = Best-App
+	url = https://github.com/hzlzh/Best-App.git
