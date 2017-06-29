@@ -7,3 +7,6 @@
 [submodule "ResumeSample"]
 	path = ResumeSample
 	url = https://github.com/geekcompany/ResumeSample.git
+[submodule "ITArticles"]
+	path = ITArticles
+	url = https://github.com/qiwsir/ITArticles.git
