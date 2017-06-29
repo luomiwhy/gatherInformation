@@ -16,3 +16,6 @@
 [submodule "Best-App"]
 	path = Best-App
 	url = https://github.com/hzlzh/Best-App.git
+[submodule "free-programming-books-zh_CN"]
+	path = free-programming-books-zh_CN
+	url = https://github.com/justjavac/free-programming-books-zh_CN.git
