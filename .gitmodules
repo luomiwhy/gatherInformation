@@ -31,3 +31,6 @@
 [submodule "awesome-python"]
 	path = awesome-python
 	url = https://github.com/vinta/awesome-python.git
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books.git
