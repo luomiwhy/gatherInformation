@@ -10,3 +10,6 @@
 [submodule "ITArticles"]
 	path = ITArticles
 	url = https://github.com/qiwsir/ITArticles.git
+[submodule "awesome-linux-software-cn"]
+	path = awesome-linux-software-cn
+	url = https://github.com/ChrisLeeGit/awesome-linux-software-cn.git
