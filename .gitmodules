@@ -1,3 +1,6 @@
 [submodule "deeplearningbook-chinese"]
 	path = deeplearningbook-chinese
 	url = https://github.com/exacity/deeplearningbook-chinese.git
+[submodule "awesome-kotlin"]
+	path = awesome-kotlin
+	url = https://github.com/KotlinBy/awesome-kotlin.git
