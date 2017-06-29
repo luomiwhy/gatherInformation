@@ -22,3 +22,6 @@
 [submodule "The-Art-Of-Programming-By-July"]
 	path = The-Art-Of-Programming-By-July
 	url = https://github.com/julycoding/The-Art-Of-Programming-By-July.git
+[submodule "be-a-professional-programmer"]
+	path = be-a-professional-programmer
+	url = https://github.com/stanzhai/be-a-professional-programmer.git
