@@ -19,3 +19,6 @@
 [submodule "free-programming-books-zh_CN"]
 	path = free-programming-books-zh_CN
 	url = https://github.com/justjavac/free-programming-books-zh_CN.git
+[submodule "The-Art-Of-Programming-By-July"]
+	path = The-Art-Of-Programming-By-July
+	url = https://github.com/julycoding/The-Art-Of-Programming-By-July.git
