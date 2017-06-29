@@ -25,3 +25,6 @@
 [submodule "be-a-professional-programmer"]
 	path = be-a-professional-programmer
 	url = https://github.com/stanzhai/be-a-professional-programmer.git
+[submodule "TimLiu-Python"]
+	path = TimLiu-Python
+	url = https://github.com/Tim9Liu9/TimLiu-Python.git
