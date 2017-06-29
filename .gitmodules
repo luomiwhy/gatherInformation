@@ -28,3 +28,6 @@
 [submodule "TimLiu-Python"]
 	path = TimLiu-Python
 	url = https://github.com/Tim9Liu9/TimLiu-Python.git
+[submodule "awesome-python"]
+	path = awesome-python
+	url = https://github.com/vinta/awesome-python.git
