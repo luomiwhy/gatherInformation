@@ -34,3 +34,6 @@
 [submodule "free-programming-books"]
 	path = free-programming-books
 	url = https://github.com/EbookFoundation/free-programming-books.git
+[submodule "500lines"]
+	path = 500lines
+	url = https://github.com/aosabook/500lines.git
